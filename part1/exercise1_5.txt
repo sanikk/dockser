@@ -1,1 +1,2 @@
-docker run --rm -it ubuntu:16.04 sh -c 'apt-get update;apt-get install curl;echo "Input website:";read website;echo "Searching..";sleep 1;curl http://$website;'
+devopsdockeruh/simple-web-service      ubuntu    4e3362e907d5   2 weeks ago    83MB
+devopsdockeruh/simple-web-service      alpine    fd312adc88e0   2 weeks ago    15.7MB
